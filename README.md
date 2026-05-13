@@ -41,15 +41,15 @@
 # 🚀 Tools & Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,kotlin,python,javascript,typescript,react,nodejs,html,css,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=java,python,typescript,react,nodejs,html,css,mysql,firebase" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws,azure,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,aws,azure,vscode" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,androidstudio,bash,figma" />
+<img src="https://skillicons.dev/icons?i=c,cpp,androidstudio,bash" />
 </p>
 
 ---
