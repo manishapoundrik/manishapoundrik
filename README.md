@@ -8,7 +8,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 I'm a Computer Science Engineering student passionate about building real-world applications and learning modern technologies.
+🎓 Aspiring Software Developer passionate about building real-world applications and learning modern technologies.
 
 💡 I enjoy working on Android Development, DevOps, Cloud Computing, Networking, and Full Stack Projects.
 
